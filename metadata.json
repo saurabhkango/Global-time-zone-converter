@@ -1,0 +1,5 @@
+{
+  "name": "IST to US Timezone Converter",
+  "description": "A creative time converter that displays the current Indian Standard Time (IST) and visually represents the corresponding times in major US timezones on a map.",
+  "requestFramePermissions": []
+}
